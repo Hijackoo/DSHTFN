@@ -1,4 +1,4 @@
-# 在layer中添加此类
+# 在spikingjelly.activation_based.layer中添加此类
 # class SwitchNorm2d(sn.SwitchNorm2d, base.StepModule):
 #     def __init__(
 #             self,
